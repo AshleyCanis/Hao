@@ -1,0 +1,247 @@
+local Button = Tab:AddButton({
+  Title = "Vip Gamepass",
+  Desc = "", -- Optional
+  Callback = function()
+local lib = {
+	['notification'] = loadstring(game:HttpGetAsync("https://pastefy.app/nXmxy6M0/raw"))(),
+	['cooldown'] = false,
+	['username'] = 'unknown',
+	['bw'] = 'unknown'
+}
+
+lib.notification:message{
+	Title = "Darkness Hub Notification",
+	Description = "Got Vip Gamepass!",
+	Icon = 85102932341647
+}
+ game:GetService("Players").LocalPlayer.PlayersBag.VIP.Value = true
+  end
+})
+local Button = Tab:AddButton({
+  Title = "Premium Gamepass",
+  Desc = "", -- Optional
+  Callback = function()
+local lib = {
+	['notification'] = loadstring(game:HttpGetAsync("https://pastefy.app/nXmxy6M0/raw"))(),
+	['cooldown'] = false,
+	['username'] = 'unknown',
+	['bw'] = 'unknown'
+}
+
+lib.notification:message{
+	Title = "Darkness Hub Notification",
+	Description = "Got Premium Gamepass!",
+	Icon = 100893456751976
+}
+game:GetService("Players").LocalPlayer.PlayersBag.SilverPass.Value = true
+  end
+})
+local Button = Tab:AddButton({
+  Title = "Speed Gamepass",
+  Desc = "", -- Optional
+  Callback = function()
+ local lib = {
+	['notification'] = loadstring(game:HttpGetAsync("https://pastefy.app/nXmxy6M0/raw"))(),
+	['cooldown'] = false,
+	['username'] = 'unknown',
+	['bw'] = 'unknown'
+}
+
+lib.notification:message{
+	Title = "Darkness Hub Notification",
+	Description = "Got Speed Gamepass!",
+	Icon = 127553905855586
+}
+ game:GetService("Players").LocalPlayer.PlayersBag.SpeedPass200.Value = true
+  end
+})
+local Button = Tab:AddButton({
+  Title = "Music Gamepass",
+  Desc = "", -- Optional
+  Callback = function()
+local lib = {
+	['notification'] = loadstring(game:HttpGetAsync("https://pastefy.app/nXmxy6M0/raw"))(),
+	['cooldown'] = false,
+	['username'] = 'unknown',
+	['bw'] = 'unknown'
+}
+
+lib.notification:message{
+	Title = "Darkness Hub Notification",
+	Description = "Got Music Gamepass!",
+	Icon = 77765073982300
+}
+ game:GetService("Players").LocalPlayer.PlayersBag.MusicPass.Value = true
+  end
+})
+local Button = Tab:AddButton({
+  Title = "Horse Gamepass",
+  Desc = "", -- Optional
+  Callback = function()
+ local lib = {
+	['notification'] = loadstring(game:HttpGetAsync("https://pastefy.app/nXmxy6M0/raw"))(),
+	['cooldown'] = false,
+	['username'] = 'unknown',
+	['bw'] = 'unknown'
+}
+
+lib.notification:message{
+	Title = "Darkness Hub Notification",
+	Description = "Got Horse Gamepass!",
+	Icon = 127553905855586
+}
+ game:GetService("Players").LocalPlayer.PlayersBag.HorsePass.Value = true
+  end
+})
+local Button = Tab:AddButton({
+  Title = "VehiclePack Gamepass",
+  Desc = "", -- Optional
+  Callback = function()
+ local lib = {
+	['notification'] = loadstring(game:HttpGetAsync("https://pastefy.app/nXmxy6M0/raw"))(),
+	['cooldown'] = false,
+	['username'] = 'unknown',
+	['bw'] = 'unknown'
+}
+
+lib.notification:message{
+	Title = "Darkness Hub Notification",
+	Description = "Got VehiclePack Gamepass!",
+	Icon = 127553905855586
+}
+ game:GetService("Players").LocalPlayer.PlayersBag.VehiclePackPass.Value = true
+  end
+})
+local Button = Tab:AddButton({
+  Title = "Mansion Gamepass",
+  Desc = "", -- Optional
+  Callback = function()
+ local lib = {
+	['notification'] = loadstring(game:HttpGetAsync("https://pastefy.app/nXmxy6M0/raw"))(),
+	['cooldown'] = false,
+	['username'] = 'unknown',
+	['bw'] = 'unknown'
+}
+
+lib.notification:message{
+	Title = "Darkness Hub Notification",
+	Description = "Got Mansion Gamepass!",
+	Icon = 127553905855586
+}
+ game:GetService("Players").LocalPlayer.PlayersBag.MansionPass.Value = true
+  end
+})
+local Button = Tab:AddButton({
+  Title = "Face Gamepass",
+  Desc = "", -- Optional
+  Callback = function()
+ local lib = {
+	['notification'] = loadstring(game:HttpGetAsync("https://pastefy.app/nXmxy6M0/raw"))(),
+	['cooldown'] = false,
+	['username'] = 'unknown',
+	['bw'] = 'unknown'
+}
+
+lib.notification:message{
+	Title = "Darkness Hub Notification",
+	Description = "Got Face Gamepass!",
+	Icon = 127553905855586
+}
+ game:GetService("Players").LocalPlayer.PlayersBag.FacePass.Value = true
+  end
+})
+local Button = Tab:AddButton({
+  Title = "Disaster Gamepass",
+  Desc = "", -- Optional
+  Callback = function()
+ local lib = {
+	['notification'] = loadstring(game:HttpGetAsync("https://pastefy.app/nXmxy6M0/raw"))(),
+	['cooldown'] = false,
+	['username'] = 'unknown',
+	['bw'] = 'unknown'
+}
+
+lib.notification:message{
+	Title = "Darkness Hub Notification",
+	Description = "Got Disaster Gamepass!",
+	Icon = 127553905855586
+}
+ game:GetService("Players").LocalPlayer.PlayersBag.DisasterPass.Value = true
+  end
+})
+local Button = Tab:AddButton({
+  Title = "Boat Gamepass",
+  Desc = "", -- Optional
+  Callback = function()
+ local lib = {
+	['notification'] = loadstring(game:HttpGetAsync("https://pastefy.app/nXmxy6M0/raw"))(),
+	['cooldown'] = false,
+	['username'] = 'unknown',
+	['bw'] = 'unknown'
+}
+
+lib.notification:message{
+	Title = "Darkness Hub Notification",
+	Description = "Got Boat Gamepass!",
+	Icon = 127553905855586
+}
+ game:GetService("Players").LocalPlayer.PlayersBag.BoatPass.Value = true
+  end
+})
+local Button = Tab:AddButton({
+  Title = "PentHouse Gamepass",
+  Desc = "", -- Optional
+  Callback = function()
+ local lib = {
+	['notification'] = loadstring(game:HttpGetAsync("https://pastefy.app/nXmxy6M0/raw"))(),
+	['cooldown'] = false,
+	['username'] = 'unknown',
+	['bw'] = 'unknown'
+}
+
+lib.notification:message{
+	Title = "Darkness Hub Notification",
+	Description = "Got PentHouse Gamepass!",
+	Icon = 127553905855586
+}
+ game:GetService("Players").LocalPlayer.PlayersBag.PenthousePass.Value = true
+  end
+})
+local Button = Tab:AddButton({
+  Title = "Fire Gamepass",
+  Desc = "", -- Optional
+  Callback = function()
+ local lib = {
+	['notification'] = loadstring(game:HttpGetAsync("https://pastefy.app/nXmxy6M0/raw"))(),
+	['cooldown'] = false,
+	['username'] = 'unknown',
+	['bw'] = 'unknown'
+}
+
+lib.notification:message{
+	Title = "Darkness Hub Notification",
+	Description = "Got Fire Gamepass!",
+	Icon = 127553905855586
+}
+ game:GetService("Players").LocalPlayer.PlayersBag.FirePass.Value = true
+  end
+})
+local Button = Tab:AddButton({
+  Title = "Theme Gamepass",
+  Desc = "", -- Optional
+  Callback = function()
+ local lib = {
+	['notification'] = loadstring(game:HttpGetAsync("https://pastefy.app/nXmxy6M0/raw"))(),
+	['cooldown'] = false,
+	['username'] = 'unknown',
+	['bw'] = 'unknown'
+}
+
+lib.notification:message{
+	Title = "Darkness Hub Notification",
+	Description = "Got Theme Gamepass!",
+	Icon = 127553905855586
+}
+ game:GetService("Players").LocalPlayer.PlayersBag.ThemePass.Value = true
+  end
+})
